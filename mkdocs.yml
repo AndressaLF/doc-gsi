@@ -1,0 +1,17 @@
+site_name: Documentação para GSI
+site_author: Panda
+
+theme:
+  name: material
+  language: pt
+
+plugins:
+    - search
+    - mermaid2
+
+nav:
+    - index.md
+    - usabilidade.md
+    - diagramas.md
+  
+
